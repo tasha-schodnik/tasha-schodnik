@@ -126,6 +126,10 @@ Pensacola State College
 
 ## 🦝 Meet Nistra
 
+<p align="center">
+  <img src="assets/Nistra_GitHub_Profile.png" width="350" alt="Nistra the GRC Raccoon">
+</p>
+
 **Nistra** is the resident GRC raccoon — keeper of the risk register, collector of evidence, and firm believer that saying a control works isn't the same as proving it.
 
 > **Assess. Evidence. Remediate.**
@@ -135,6 +139,10 @@ Pensacola State College
 ---
 
 ## 🦖 Meet Rexec
+
+<p align="center">
+  <img src="assets/REXECPP.png" width="350" alt="Rexec the Blue Team T-Rex">
+</p>
 
 **Rexec** is the resident Blue Team T-Rex — fueled by packets, logs, investigations, and probably too much coffee.
 
