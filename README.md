@@ -152,4 +152,4 @@ Pensacola State College
 
 ### 🎯 Career Direction
 
-Building toward a career in **Governance, Risk, and Compliance (GRC), Information Security Risk, Security Controls, Security Compliance, and IT Audit** while maintaining a strong hands-on technical cybersecurity foundation.<img width="1846" height="1002" alt="image" src="https://github.com/user-attachments/assets/250e7976-9e00-42be-bc77-a5d2b227af75" />
+Building toward a career in **Governance, Risk, and Compliance (GRC), Information Security Risk, Security Controls, Security Compliance, and IT Audit** while maintaining a strong hands-on technical cybersecurity foundation.
